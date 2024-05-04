@@ -1,70 +1,213 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<div align="center">
 
-## Available Scripts
+  <img src="https://github.com/emrankamil/react-dashboard/blob/main/public/logo192.png" alt="logo" width="200" height="auto" />
+  <h1>React Dashboard</h1>
+  
+  <p>
+    An awesome dashboard projects made with react! 
+  </p>
+  
+  
+<!-- Badges -->
+<p>
+  <a href="https://github.com/Louis3797/awesome-readme-template/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/emrankamil/react-dashboard" alt="contributors" />
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/github/last-commit/emrankamil/react-dashboard" alt="last update" />
+  </a>
+  <a href="https://github.com/emrankamil/react-dashboard/network/members">
+    <img src="https://img.shields.io/github/forks/emrankamil/react-dashboard" alt="forks" />
+  </a>
+  <a href="https://github.com/emrankamil/react-dashboard/stargazers">
+    <img src="https://img.shields.io/github/stars/emrankamil/react-dashboard" alt="stars" />
+  </a>
+  <a href="https://github.com/Louis3797/awesome-readme-template/issues/">
+    <img src="https://img.shields.io/github/issues/emrankamil/react-dashboard" alt="open issues" />
+  </a>
+</p>
+   
+<h4>
+    <a href="https://github.com/emrankamil/react-dashboard">View Demo</a>
+  <span> · </span>
+    <a href="https://github.com/emrankamil/react-dashboard">Documentation</a>
+  <span> · </span>
+    <a href="https://github.com/Louis3797/awesome-readme-template/issues/">Report Bug</a>
+  <span> · </span>
+    <a href="https://github.com/Louis3797/awesome-readme-template/issues/">Request Feature</a>
+  </h4>
+</div>
 
-In the project directory, you can run:
+<br />
 
-### `npm start`
+<!-- Table of Contents -->
+# :notebook_with_decorative_cover: Table of Contents
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- [About the Project](#star2-about-the-project)
+  * [Screenshots](#camera-screenshots)
+  * [Tech Stack](#space_invader-tech-stack)
+  * [Features](#dart-features)
+  * [Color Reference](#art-color-reference)
+  * [Environment Variables](#key-environment-variables)
+- [Getting Started](#toolbox-getting-started)
+  * [Run Locally](#running-run-locally)
+  * [Deployment](#triangular_flag_on_post-deployment)
+- [Roadmap](#compass-roadmap)
+- [FAQ](#grey_question-faq)
+- [Contact](#handshake-contact)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+  
 
-### `npm test`
+<!-- About the Project -->
+## :star2: About the Project
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+<!-- Screenshots -->
+### :camera: Screenshots
 
-Builds the app for production to the `build` folder.\
+<div align="center"> 
+  <img src="https://github.com/emrankamil/react-dashboard/blob/main/public/logo192.png" alt="screenshot" />
+</div>
+
+
+<!-- TechStack -->
+### :space_invader: Tech Stack
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li><a href="https://tailwindcss.com/">Material ui</a></li>
+  </ul>
+</details>
+
+<!--
+<details>
+  <summary>Server</summary>
+  <ul>
+    <li><a href="https://www.typescriptlang.org/">Typescript</a></li>
+    <li><a href="https://expressjs.com/">Express.js</a></li>
+  </ul>
+</details>
+
+<details>
+<summary>Database</summary>
+  <ul>
+    <li><a href="https://www.mysql.com/">MySQL</a></li>
+  </ul>
+</details>
+
+<details>
+<summary>DevOps</summary>
+  <ul>
+    <li><a href="https://www.docker.com/">Docker</a></li>
+    <li><a href="https://www.jenkins.io/">Jenkins</a></li>
+    <li><a href="https://circleci.com/">CircleCLI</a></li>
+  </ul>
+</details>
+-->
+
+<!-- Features -->
+### :dart: Features
+
+
+- Admin Team Management: Allows administrators to manage teams effectively.
+- Interactive Calendar for Event Management: Provides a user-friendly interface for scheduling and managing events.
+- Charts: Includes various types of charts such as pie, line, bar, and geo charts for data visualization.
+- Profile Page: Allows users to view and track their profile information.
+- FAQ Section: Provides a dedicated area for frequently asked questions to assist users with common queries.
+
+<!-- Color Reference -->
+### :art: Color Reference
+
+| Color             | Bright Mode Hex                                              | Dark Mode Hex                                                |
+| ----------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Primary Color     | ![#222831](https://via.placeholder.com/10/222831?text=+) `#222831` | ![#040509](https://via.placeholder.com/10/040509?text=+) `#040509` |
+| Secondary Color   | ![#393E46](https://via.placeholder.com/10/393E46?text=+) `#393E46` | ![#727681](https://via.placeholder.com/10/727681?text=+) `#727681` |
+| Accent Color      | ![#00ADB5](https://via.placeholder.com/10/00ADB5?text=+) `#00ADB5` | ![#4cceac](https://via.placeholder.com/10/4cceac?text=+) `#4cceac` |
+| Text Color        | ![#EEEEEE](https://via.placeholder.com/10/EEEEEE?text=+) `#EEEEEE` | ![#F2F0F0](https://via.placeholder.com/10/F2F0F0?text=+) `#F2F0F0` |
+
+
+
+<!-- Env Variables -->
+### :key: Environment Variables
+
+To run this project, you will need to add the following environment variables to your .env file
+
+`API_KEY`
+
+`ANOTHER_API_KEY`
+
+<!-- Getting Started -->
+## 	:toolbox: Getting Started
+
+<!-- Run Locally -->
+### :running: Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/emrankamil/react-dashboard.git
+```
+
+Go to the project directory
+
+```bash
+  cd react-dashboard
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run start
+```
+<br>
+<!-- deployment -->
+### :running: deployment
+```bash
+  npm run test
+```
+Launches the test runner in the interactive watch mode.
+See the section about running tests for more information.
+
+```bash
+  npm run build
+```
+Builds the app for production to the build folder.
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
+The build is minified and the filenames include the hashes.
 Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+See the section about deployment for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<!-- Roadmap -->
+## :compass: Roadmap
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+* [x] Todo 1
+* [ ] Todo 2
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+<!-- FAQ -->
+## :grey_question: FAQ
 
-## Learn More
+- **How could this website be useful?**
+  + This website is useful for those who have a complex website and want to build a way to manage it.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- **How could I get a dashboard like this for me?**
+  + Contact me at: [LinkedIn](https://www.linkedin.com/in/emran-kamil).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<!-- Contact -->
+## :handshake: Contact
 
-### Code Splitting
+Emran Kamil - [@Linkedin_handle](https://www.linkedin.com/in/emran-kamil) - emranhi001@gmail.com
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Project Link: [https://github.com/emrankamil/react-dashboard](https://github.com/emrankamil/react-dashboard)
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
