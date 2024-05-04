@@ -19,7 +19,7 @@ const Contacts = () => {
     ] 
 
     return (
-        <Box m='20px'>
+        <Box m='20px' pb='20px'>
             <Header title='CONTACTS' subtitle='The list of Contacts for future reference' />
             <Box
                 m='48px 0 0 0'
