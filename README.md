@@ -11,7 +11,7 @@
   
 <!-- Badges -->
 <p>
-  <a href="https://github.com/Louis3797/awesome-readme-template/graphs/contributors">
+  <a href="https://github.com/emrankamil/react-dashboard/graphs/contributors">
     <img src="https://img.shields.io/github/contributors/emrankamil/react-dashboard" alt="contributors" />
   </a>
   <a href="">
@@ -67,16 +67,16 @@
 ### :camera: Screenshots
 
 <div align="center"> 
-  <img src="/public/screenshot4.png" alt="screenshot" />
+  <img src="https://github.com/emrankamil/react-dashboard/blob/main/public/screenshots/screenshot4.png" />
 </div>
 <div align="center"> 
-  <img src="/public/screenshot3.png" alt="screenshot" />
+  <img src="https://github.com/emrankamil/react-dashboard/blob/main/public/screenshots/screenshot3.png" alt="screenshot" />
 </div>
 <div align="center"> 
-  <img src="/public/screenshot2.png" alt="screenshot" />
+  <img src="https://github.com/emrankamil/react-dashboard/blob/main/public/screenshots/screenshot2.png" alt="screenshot" />
 </div>
 <div align="center"> 
-  <img src="/public/screenshot1.png" alt="screenshot" />
+  <img src="https://github.com/emrankamil/react-dashboard/blob/main/public/screenshots/screenshot1.png" alt="screenshot" />
 </div>
 
 
