@@ -67,7 +67,16 @@
 ### :camera: Screenshots
 
 <div align="center"> 
-  <img src="https://github.com/emrankamil/react-dashboard/blob/main/public/logo192.png" alt="screenshot" />
+  <img src="/public/screenshot4.png" alt="screenshot" />
+</div>
+<div align="center"> 
+  <img src="/public/screenshot3.png" alt="screenshot" />
+</div>
+<div align="center"> 
+  <img src="/public/screenshot2.png" alt="screenshot" />
+</div>
+<div align="center"> 
+  <img src="/public/screenshot1.png" alt="screenshot" />
 </div>
 
 
